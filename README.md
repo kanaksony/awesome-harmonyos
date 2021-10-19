@@ -1,4 +1,4 @@
-![Awesome HarmonyOS]("https://github.com/sindresorhus/awesome/raw/main/media/logo.svg")
+![Awesome HarmonyOS]("https://raw.githubusercontent.com/sindresorhus/awesome/main/media/logo.svg")
 
 # A curated list of awesome HarmonyOS libraries.
 
