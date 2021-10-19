@@ -15,7 +15,7 @@
 
 
 ## Index
-* [Layout](https://github.com/kanaksony/awesome-harmonyos/main/README.md#Layout) 
+* [Layout](https://github.com/kanaksony/awesome-harmonyos/blob/main/README.md#layout)
 
   
 Layout
