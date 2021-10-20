@@ -1,18 +1,27 @@
 <div align="center">
-<img width="400" height="200" src="https://github.com/sindresorhus/awesome/raw/main/media/logo.svg" alt="Awesome HarmonyOS"/>
-  <p><h3>A curated list of awesome HarmonyOS libraries.</h3></p>
+   <img width="300" height="150" src="https://github.com/sindresorhus/awesome/raw/main/media/logo.svg" alt="Awesome HarmonyOS"/>
+   <p>
+   <h2>A curated list of awesome HarmonyOS libraries and resources</h2>
+   </p>
 </div>
-<br>
-<hr>
+<div align="center">
+   <br>
+   <img width="200" height="100" src="https://github.com/kanaksony/awesome-harmonyos/blob/main/media/HarmonyOS-2.0-Logo.jpg"  alt="HarmonyOS"/>
+   <p style="font-size:12px">
+   <h4 ><a href="https://www.harmonyos.com/en/">HarmonyOS</a>
+      (Chinese: 鸿蒙; pinyin: Hóngméng) is a distributed operating system developed by <a href="https://www.huawei.com/en/">Huawei</a> to run on multiple devices.
+   </h4>
+   </p>
+   <hr>
+   <br>
 </div>
 
 ## Maintainers
 <p>
-  <a href="https://github.com/kanaksony">
-    <img src="https://avatars.githubusercontent.com/u/6097596?s=64" />
-  </a>
+   <a href="https://github.com/kanaksony">
+   <img src="https://avatars.githubusercontent.com/u/6097596?s=64" />
+   </a>
 </p>
-
 
 ## Index
 * [Button](https://github.com/kanaksony/awesome-harmonyos/blob/main/README.md#button)
